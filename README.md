@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌐 Blog: [graemenewlands.com](https://graemenewlands.com)
+- 🦋 Bluesky: [@graemenewlands.bsky.social](https://bsky.app/profile/graemenewlands.bsky.social)
+
 <!--
 **graemenewlands/graemenewlands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
